@@ -20,7 +20,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0 tvg-name="VOXup" tvg-id="Voxup.de" tvg-logo="voxup.png",VOXup
 rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="wdrhd.png",WDR HD
-https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" tvg-logo="tagesschau24hd.png",tagesschau24 HD
 https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="brhd.png",BR Fernsehen Nord HD
