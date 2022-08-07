@@ -43,7 +43,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/mtv.png",MTV Germany
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/deluxemusic.png",DELUXE MUSIC
+#EXTINF:-1 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/deluxemusic.png",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 tvg-name="ntv" tvg-id="ntv.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/ntv.png",ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
