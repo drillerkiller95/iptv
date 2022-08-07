@@ -46,7 +46,7 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
 #EXTINF:0 tvg-name="ntv" tvg-id="ntv.de" tvg-logo="ntv.png",ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" Nachrichten; tvg-logo="welt.png",WELT
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:0 tvg-name="Nitro" tvg-id="RTLNitro.de" Nachrichten; tvg-logo="nitro.png",Nitro
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
 #EXTINF:0 tvg-name="DMAX" tvg-id="DMax.de" Nachrichten; tvg-logo="dmax.png",DMAX
