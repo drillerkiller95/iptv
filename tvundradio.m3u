@@ -81,7 +81,7 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="srfernsehenhd.png",SR Fernsehen HD
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" tvg-logo="parlamentsfernsehen.png",Parlamentsfernsehen 1
+#EXTINF:-1 tvg-name="Parlamentsfernsehen" tvg-id="" tvg-logo="parlamentsfernsehen.png",Parlamentsfernsehen 1
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 
 #EXTINF:0 tvg-name="1LIVE" tvg-id="" tvg-logo="1live.png",1LIVE
