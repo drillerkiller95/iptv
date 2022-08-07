@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/daserstehd.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:0 tvg-name="RTL" tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtl.png",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
 #EXTINF:0 tvg-name="SAT.1" tvg-id="Sat1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/sat.1.png",SAT.1
