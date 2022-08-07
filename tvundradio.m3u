@@ -22,15 +22,15 @@ rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="wdrhd.png",WDR HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
 #EXTINF:-1 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" tvg-logo="tagesschau24hd.png",tagesschau24 HD
-https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/master.m3u8
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="brhd.png",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="mdrsachsenhd.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1 tvg-name="NDR Hamburg HD" tvg-id="ndr.de" tvg-logo="ndrhhhd.png",NDR Hamburg HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" tvg-logo="rbbberlinhd.png",rbb Berlin HD
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
 #EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="artehd.png",ARTE HD
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="3sat.png",3sat
@@ -42,7 +42,11 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0 tvg-name="Disney SD" tvg-id="disneychannel.de" tvg-logo="disneychannel.png",Disney SD
 rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="mtv.png",MTV Germany
-https://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-b.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+
+#EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deluxemusic.png",DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+
 #EXTINF:0 tvg-name="ntv" tvg-id="ntv.de" tvg-logo="ntv.png",ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
 #EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" Nachrichten; tvg-logo="welt.png",WELT
@@ -53,7 +57,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
 #EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="zdfneohd.png",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de"  tvg-logo="zdfinfohd.png",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="zdfinfohd.png",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-name="KiKA HD" tvg-id="Kika.de" tvg-logo="kikahd.png",KiKA HD
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
@@ -64,23 +68,21 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0 tvg-name="kabel eins Doku" tvg-id="KabelEinsDoku.de" tvg-logo="kabeleinsdoku.png",kabel eins Doku
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658,1951
 #EXTINF:0 tvg-name="BILD HD" tvg-id="Bild.de" tvg-logo="bild.png",BILD HD
-https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/master.m3u8
+https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:0 tvg-name="Tele 5" tvg-id="Tele5.de" tvg-logo="tele5.png",Tele 5
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
 #EXTINF:0 tvg-name="TLC" tvg-id="TLC.de" tvg-logo="tlc.png",TLC
 rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-id="Nick.de" tvg-logo="nickelodeon.png",Nickelodeon
-https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:-1 tvg-name="SWR BW HD " tvg-id="SWR.de" tvg-logo="swrbwhd.png",SWR BW HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="hr-fernsehenhd.png",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
 #EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="srfernsehenhd.png",SR Fernsehen HD
-http://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-name="Parlamentsfernsehen 1" tvg-id="" tvg-logo="parlamentsfernsehen.png",Parlamentsfernsehen 1
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-name="Parlamentsfernsehen 2" tvg-id="" tvg-logo="parlamentsfernsehen.png",Parlamentsfernsehen 2
-https://c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 
 #EXTINF:0 tvg-name="1LIVE" tvg-id="" tvg-logo="1live.png",1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
