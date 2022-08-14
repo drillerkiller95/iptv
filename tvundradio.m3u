@@ -15,6 +15,8 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
 #EXTINF:0 tvg-name="kabel eins" tvg-id="Kabel.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/kabeleins.png",kabel eins
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,576,1711
+#EXTINF:0 tvg-name="RTL UP" tvg-id="rtl-up.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtlup.png",RTL UP
+rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
 #EXTINF:0 tvg-name="VOX" tvg-id="Vox.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/vox.png",VOX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
 #EXTINF:0 tvg-name="VOXup" tvg-id="Voxup.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/voxup.png",VOXup
