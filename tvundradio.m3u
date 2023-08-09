@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/daserstehd.png",Das Erste HD
 http://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfhd.png",ZDF HD
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-name="RTL" tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtl.png",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
 #EXTINF:0 tvg-name="SAT.1" tvg-id="Sat1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/sat.1.png",SAT.1
@@ -11,20 +11,14 @@ rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
 #EXTINF:0 tvg-name="RTLZWEI" tvg-id="RTL2.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtl2.png",RTL2
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,262,563,564,568,1671,1681,1682,1683
-#EXTINF:0 tvg-name="Super RTL" tvg-id="SuperRTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/superrtl.png",Super RTL
+#EXTINF:0 tvg-name="RTL Super" tvg-id="SuperRTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtlsuper.png",RTL Super
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,583,584,588,1761,1771,1772,1773
 #EXTINF:0 tvg-name="kabel eins" tvg-id="Kabel.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/kabeleins.png",kabel eins
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,576,1711
-#EXTINF:0 tvg-name="RTL UP" tvg-id="rtl-up.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtlup.png",RTL UP
-rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
 #EXTINF:0 tvg-name="VOX" tvg-id="Vox.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/vox.png",VOX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,558,1641,1651,1652,1653
-#EXTINF:0 tvg-name="VOXup" tvg-id="Voxup.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/voxup.png",VOXup
-rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
 #EXTINF:0 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/wdrhd.png",WDR HD
 https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:0 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/tagesschau24hd.png",tagesschau24 HD
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:0 tvg-name="BR Fernsehen Nord HD" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/brhd.png",BR Fernsehen Nord HD
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 #EXTINF:0 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/mdrsachsenhd.png",MDR Sachsen HD
@@ -41,8 +35,10 @@ http://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 http://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-name="ProSieben MAXX" tvg-id="ProSiebenMaxx.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/prosiebenmaxx.png",ProSieben MAXX
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1831
-#EXTINF:0 tvg-name="Disney SD" tvg-id="disneychannel.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/disneychannel.png",Disney SD
-rtsp://192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578
+#EXTINF:0 tvg-name="Comedy Central" tvg-id="comedycentral.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/comedycentral.png",Comedy Central
+rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,1531
+#EXTINF:0 tvg-name="Nickelodeon" tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/nickelodeon.png",Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:0 tvg-name="MTV Germany" tvg-id="MTVGermany.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/mtv.png",MTV Germany
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
 #EXTINF:0 tvg-name="Deluxe Music" tvg-id="DeLuxeMusic.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/deluxemusic.png",Deluxe Music
@@ -50,11 +46,17 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:0 tvg-name="ntv" tvg-id="ntv.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/ntv.png",ntv
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803
 #EXTINF:0 tvg-name="WELT" tvg-id="WELT.de" Nachrichten; tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/welt.png",WELT
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+https://welt.personalstream.tv/v1/master.m3u8
+#EXTINF:0 tvg-name="RTL UP" tvg-id="rtl-up.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtlup.png",RTL UP
+rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,538,1591,1592,1593
+#EXTINF:0 tvg-name="VOXup" tvg-id="Voxup.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/voxup.png",VOXup
+rtsp://192.168.178.1:554/?avm=1&freq=290&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,276,703,704,708,2101,2102,2103
 #EXTINF:0 tvg-name="Nitro" tvg-id="RTLNitro.de" Nachrichten; tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/nitro.png",Nitro
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618,1821,1831,1832,1833
 #EXTINF:0 tvg-name="DMAX" tvg-id="DMax.de" Nachrichten; tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/dmax.png",DMAX
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
+#EXTINF:0 tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/tagesschau24hd.png",tagesschau24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:0 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfneohd.png",ZDFneo HD
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfinfohd.png",ZDFinfo HD
@@ -73,14 +75,12 @@ https://bild.personalstream.tv/v1/master.m3u8
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,268,623,624,628
 #EXTINF:0 tvg-name="TLC" tvg-id="TLC.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/tlc.png",TLC
 rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
-#EXTINF:0 tvg-name="Nickelodeon" tvg-id="Nick.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/nickelodeon.png",Nickelodeon
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 #EXTINF:0 tvg-name="SWR BW HD " tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/swrbwhd.png",SWR BW HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:0 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/hr-fernsehenhd.png",hr-fernsehen
-https://hrhls.akamaized.net/hls/live/2024525-b/hrhls/master.m3u8
-#EXTINF:0 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/srfernsehenhd.png",SR Fernsehen HD
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:0 tvg-name="N24 Doku" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/n24doku.png",N24 Doku
+rtsp://192.168.178.1:554/?avm=1&freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658
+#EXTINF:0 tvg-name="Eurosport1" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/eurosport1.png",Eurosport1
+rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
 #EXTINF:0 tvg-name="Parlamentsfernsehen" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/parlamentsfernsehen.png",Parlamentsfernsehen
 https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 
@@ -88,8 +88,6 @@ https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_d
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 #EXTINF:0 tvg-name="WDR 2 Ruhrgebiet" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/wdr2.png",WDR 2 Ruhrgebiet
 https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
-#EXTINF:0 tvg-name="WDR 3" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/wdr3.png",WDR 3
-https://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
 #EXTINF:0 tvg-name="WDR 4" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/wdr4.png",WDR 4
 https://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 #EXTINF:0 tvg-name="JAM FM" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/jamfm.png",JAM FM
