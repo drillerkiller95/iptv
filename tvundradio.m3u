@@ -5,7 +5,7 @@ http://mcdn.daserste.de/daserste/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-name="RTL" tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtl.png",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
-#EXTINF:0 tvg-name="SAT.1" tvg-id="Sat1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/sat.1.png",SAT.1
+#EXTINF:0 tvg-name="SAT.1" tvg-id="Sat1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/sat1.png",SAT.1
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534,536,538,1591
 #EXTINF:0 tvg-name="ProSieben" tvg-id="Pro7.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/prosieben.png",ProSieben
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,546,548,1621
