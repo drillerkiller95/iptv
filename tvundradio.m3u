@@ -57,15 +57,10 @@ rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548,1621
 #EXTINF:0 tvg-chno="29" tvg-epgid="tagesschau24-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/tagesschau24hd.png" group-title="Sender",tagesschau24 HD
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:0 tvg-chno="30" tvg-epgid="zdfneo-hd"" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfneohd.png" group-title="Sender",ZDFneo HD
+#EXTINF:0 tvg-chno="30" tvg-epgid="zdfneo-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfneohd.png" group-title="Sender",ZDFneo HD
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-
-
-#EXTINF:0 tvg-chno="31" tvg-epgid="zdfinfo-hd"" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfinfohd.png" group-title="Sender",ZDFinfo HD
+#EXTINF:0 tvg-chno="31" tvg-epgid="zdfinfo-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfinfohd.png" group-title="Sender",ZDFinfo HD
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-
 #EXTINF:0 tvg-chno="32" tvg-epgid="swr-fernsehen-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="SWR BW HD " tvg-id="SWRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/swrbwhd.png" group-title="Sender",SWR BW HD
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:0 tvg-chno="33" tvg-epgid="kika-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="KiKA HD" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/kikahd.png" group-title="Sender",KiKA HD
@@ -86,8 +81,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,274,683,684,688,2041
 #EXTINF:0 tvg-chno="41" tvg-epgid="eurosport-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="Eurosport1" tvg-id="Eurosport1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/eurosport1.png" group-title="Sender",Eurosport1
 rtsp://192.168.178.1:554/?avm=1&freq=218&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588
-#EXTINF:0 tvg-chno="42" tvg-epgid="parlamentsfernsehen" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="Parlamentsfernsehen" tvg-id="" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/parlamentsfernsehen.png" group-title="Sender",Parlamentsfernsehen
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
 
 #EXTINF:0 tvg-chno="43" tvg-epgid="1LIVE" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="1LIVE" tvg-id="" tvg-radio"" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/1live.png" group-title="Radio",1LIVE
 https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
