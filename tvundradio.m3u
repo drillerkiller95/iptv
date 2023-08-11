@@ -2,7 +2,7 @@
 #EXTINF:0 tvg-chno="01" tvg-epgid="das-erste-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="Das Erste HD" tvg-id="DasErste.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/daserstehd.png" group-title="Sender",Das Erste HD
 http://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:0 tvg-chno="02" tvg-epgid="zdf-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/zdfhd.png" group-title="Sender",ZDF HD
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:0 tvg-chno="03" tvg-epgid="rtl-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="RTL" tvg-id="RTL.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/rtl.png" group-title="Sender",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,528,1551,1561,1562,1563
 #EXTINF:0 tvg-chno="04" tvg-epgid="sat-1-hd" tvg-country="DE" tvg-language="German" tvg-epgurl="https://www.hd-plus.de/epg/channel/$" tvg-epgshift="-3" tvg-content-type="TV" tvg-name="SAT.1" tvg-id="Sat1.de" tvg-logo="https://raw.githubusercontent.com/drillerkiller95/iptv/main/Senderlogos/sat1.png" group-title="Sender",SAT.1
